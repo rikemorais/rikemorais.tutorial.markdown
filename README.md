@@ -3,7 +3,11 @@ _[pt-BR]_ Decidi criar um tutorial sobre Markdown no YouTube e esse será o repo
 
 # Títulos
 
-Os títulos serão equivalentes às tags h1, h2, h3, h4, h5, h6 do HTML. Para ter o resultado você irá adicionar o `#` a quantidade de vezes a depender do Level do Título, exemplo, se quiser o principal será `# Títulos`, como fizemos acima com apenas um jogo da velha. Se quiser o próximo, usará o `## Level 02` e assim por diante. Não se esqueça do espaço entre o `#` e o Título ou então sua notação não será reconhecida. Outra coisa, não esqueça de colocar linhas em branco antes e depois do título.
+Os títulos serão equivalentes às tags h1, h2, h3, h4, h5, h6 do HTML. Para ter o resultado você irá adicionar o `#` a quantidade de vezes a depender do Level do Título, exemplo, se quiser o principal será `# Títulos`, como fizemos acima com apenas um jogo da velha. Se quiser o próximo, usará o `## Level 02` e assim por diante. 
+
+> Não se esqueça do espaço entre o `#` e o Título ou então sua notação não será reconhecida. 
+>
+> Não esqueça de colocar linhas em branco antes e depois do título.
 
 ## Level 02
 
@@ -16,7 +20,11 @@ Os títulos serão equivalentes às tags h1, h2, h3, h4, h5, h6 do HTML. Para te
 ###### Level 06
 
 # Parágrafos
+Para criar parágrafos, use uma linha em branco ou mais linhas de texto. O uso vai ser equivalente à tag `p` do `HTML`.
 
+Eu realmente gosto de Python.
+
+Eu uso Python todos os dias.
 
 
 
