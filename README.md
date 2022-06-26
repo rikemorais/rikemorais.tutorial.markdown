@@ -54,3 +54,34 @@ Para o texto em Itálico (equivalente à tag `<em>` do `HTML`), adicione apenas 
 Para o texto ser ao mesmo tempo, negrito e itálico (equivalente às tags `<strong><em>` combinadas) basta usar três asteriscos ou três underscores antes e depois da palavra alvo: ***Exemplo 1*** e ___Exemplo 2___.
 
 # 05. Blockquote
+
+Para criar um Blockquote (equivalente à tag `<blockquote>` no `HTML`) adicione `>` na frente do parágrafo. 
+
+> Exemplo de um Blockquote
+
+## Múltiplos Parágrafos
+Para usar blockquote com múltiplos parágrafos, basta adicionar outro `>`. Exemplo:
+
+> Primeiro Parágrafo
+>
+> Segundo Parágrafo
+
+## Blockquote Aninhado
+Para fazer o aninhamento, você irá colocar a informação adicional com `>>`. Exemplo:
+
+> Primeiro Parágrafo
+>
+>> Segundo Parágrafo
+
+## Blockquote com Outros Elementos
+Você pode incluir diversos itens dentro do blockquote. Títulos, listas, negrito, etc... Exemplo:
+
+>
+> - Exemplo 01
+> - Exemplo 02  
+> *Exemplo 03*  
+> **Exemplo 04**
+
+Uma boa prática no uso de blockquote é inserir uma linha em branco antes e depois do campo.
+
+# 06. Listas
