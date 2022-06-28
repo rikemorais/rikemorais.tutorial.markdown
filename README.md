@@ -85,3 +85,40 @@ Você pode incluir diversos itens dentro do blockquote. Títulos, listas, negrit
 Uma boa prática no uso de blockquote é inserir uma linha em branco antes e depois do campo.
 
 # 06. Listas
+
+Você pode usar itens dentro de listas ordenadas e não ordenadas.
+
+## Listas Ordenadas
+
+Insira o número com ponto e espaço `1. `, exemplo:
+1. Exemplo 1
+2. Exemplo 2
+3. Exemplo 3
+
+1. Exemplo 1
+1. Exemplo 2
+   1. Item
+   2. Item
+2. Exemplo 3
+
+## Listas Desordenadas
+
+Você pode usar `-`, `*`, `+` para gerar a lista:
+
+Com `-`
+- Exemplo 01
+  - Item
+    - Item
+    - Item
+- Exemplo 02
+- Exemplo 03
+
+Com `*`
+* Exemplo 01
+* Exemplo 02
+* Exemplo 03
+
+Com `+`
++ Exemplo 01
++ Exemplo 02
++ Exemplo 03
